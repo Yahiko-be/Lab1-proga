@@ -25,4 +25,4 @@ jobs:
         
     - name: Run Lab 1
       run: |
-        python lab1_proga.py
+        echo "10" | python lab1_proga.py
