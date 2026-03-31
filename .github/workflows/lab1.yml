@@ -34,4 +34,4 @@ jobs:
         
     - name: Run script
       run: |
-        python lab1/main.py
+        python lab1.py
